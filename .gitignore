@@ -1,0 +1,8 @@
+# Renesas property
+zmod4xxx.c
+
+# Compiled Static libraries
+*.a
+
+# Executables
+zmod2mqtt
